@@ -7,17 +7,16 @@
 ---
 
 ### 🚀 About Me
-## 🧿 My name is Reza! 🤓
+### My name is Reza! 🤓
+🔹 **Experienced Software Engineer** specializing in **Python, CI/CD, and Databases**  
+🔹 Passionate about **Energy Tech, Data Processing, and Automation**  
+🔹 **5+ years** in Backend Development & API Engineering  
+🔹 **Loves problem-solving** and constantly exploring new technologies  
+🔹 Based in **Germany** 🇩🇪  
 
-🔹 Experienced Python Programmer
+🔗 [LinkedIn Profile 💻](https://www.linkedin.com/in/rezakarami1991/)
 
-🔹 Passionate to find answers  
-
-🔹 Eager to learn more fields everyday  
-
-📍 **Germany** 🇩🇪  
-🔗 [LinkedIn](https://www.linkedin.com/in/rezakarami1991/)
-
+📩 reza.karami.arbeiten@gmail.com  
 ---
 
 ### 🛠 Tech Stack
@@ -32,6 +31,8 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)
 ![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 
 #### CI / CD
@@ -48,5 +49,22 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freedomofchoice1991&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freedomofchoice1991&layout=compact&theme=dark)  
 
 
+---
+
+### 🏆 Achievements
+✔ Developed **API clients** for real-time **CO2 & Weather Data**  
+
+✔ Designed and implemented modular, reusable code for seamless integration into energy systems 
+
+✔ Built **CI/CD pipelines** for multiple Python projects  
+
+✔ Optimized **energy prediction algorithms** for user-centric management
+
+---
+
+### 💡 Want to Collaborate?  
+I'm always open to **interesting projects and collaborations!**  
+📩 Feel free to **reach out** via [LinkedIn](https://www.linkedin.com/in/rezakarami1991/) or **email me**! 🚀
