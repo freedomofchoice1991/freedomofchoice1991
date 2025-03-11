@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/freedomofchoice1991/main/banner.png" width="100%" alt="Banner Image">
+  <img src="https://raw.githubusercontent.com/your-username/freedomofchoice1991/main/banner.webp" width="100%" alt="Banner Image">
 </p>
 
 ---
