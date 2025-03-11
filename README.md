@@ -11,7 +11,7 @@
 🔹 Eager to learn more fields everyday.  
 
 📍 **Germany** 🇩🇪  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rezakarami1991/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rezakarami1991/)
 
 ---
 
