@@ -7,8 +7,9 @@
 ---
 
 ### 🚀 About Me
-🔹 Passionate to find answers.  
-🔹 Eager to learn more fields everyday.  
+🔹 Experienced Python Programmer
+🔹 Passionate to find answers  
+🔹 Eager to learn more fields everyday  
 
 📍 **Germany** 🇩🇪  
 🔗 [LinkedIn](https://www.linkedin.com/in/rezakarami1991/)
